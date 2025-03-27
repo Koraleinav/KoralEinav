@@ -19,7 +19,7 @@ Here are some of the projects I've worked on:
 ### [Zvovon](https://github.com/Koraleinav/Zvovon_application)
 A physics-focused project developed in C#. The repository contains documentation detailing the implementation and considerations of the application.
 
-### [Koral](https://github.com/alphabestteam/Koral)
+### [Python Documentation + Exercises ](https://github.com/alphabestteam/Koral)
 A collaborative project under the AlphaBestTeam organization. The repository includes various Python modules and resources.
 
 ### [The Hero Game](https://github.com/Koraleinav/The-Hero-Game)
