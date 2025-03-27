@@ -41,7 +41,7 @@ Feel free to adjust these descriptions to better reflect your personal contribut
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/koral-einav/)
 - **Email:** koral8484@gmail.com
 - **GitHub:** [Koraleinav](https://github.com/Koraleinav)
 
