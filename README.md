@@ -23,7 +23,6 @@
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/koral-einav/)
 - **Email:** koral8484@gmail.com
-- **GitHub:** [Koraleinav](https://github.com/Koraleinav)
 
 Feel free to reach out if you have any questions or collaboration ideas!
 
